@@ -1,1 +1,2 @@
 # Python_Simple_ArrayObejct
+The initial problem statement was to create a complete program in the Python programming language. The program must have a Course class, which holds the following attributes: Course Name, Course Number, Section, Term and Year, and Number of students. The Course class must have several methods that can change the values of those attributes, as well as being able to display each value separately. The “main” must also be separate from the Course class and must allow users to  input and manipulate any variable.
